@@ -5,7 +5,6 @@
 * @list: the head node passed to us
 * Return: 0 if no loop, 1 if loop.
 */
-
 int check_cycle(listint_t *list)
 {
 	listint_t *fast = NULL;
