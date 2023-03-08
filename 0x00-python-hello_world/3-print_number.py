@@ -1,3 +1,3 @@
 #!/bin/bash/python3
 number = 98
-f"{number}Battery street" #fstring format
+print(f"{number:d}Battery street") #fstring format
